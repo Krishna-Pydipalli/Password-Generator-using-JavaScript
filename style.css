@@ -1,0 +1,46 @@
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        
+        h1 {
+            color: #333;
+            margin-top: 20px;
+        }
+        
+        label {
+            display: inline-block;
+            width: 150px;
+            margin-top: 10px;
+            color: #666;
+        }
+        
+        input[type="number"],
+        input[type="checkbox"] {
+            margin-top: 10px;
+            padding: 5px;
+        }
+        
+        button {
+            padding: 8px 16px;
+            font-size: 16px;
+            background-color: gray;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        
+        button:hover {
+            background-color: #055403;
+        }
+        
+        p {
+            font-size: 18px;
+            margin-top: 20px;
+            color: #333;
+        }
